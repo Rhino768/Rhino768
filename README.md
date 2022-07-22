@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @viking768
+- 👋 Hi, I’m @Rhino768
 - 👀 I’m interested in learning computer science 
-- 🌱 I’m currently learning computer coding with Harvard's CS50 COURSE
+- 🌱 I’m currently learning computer coding with Harvard's CS50 online course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... r.fuller76@hotmail.com
 
